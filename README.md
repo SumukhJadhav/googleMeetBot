@@ -3,18 +3,16 @@ Steps to install
 >STEP 1:
 
 
-  Install Python
+    -Install Python
         Refrence Video: https://www.youtube.com/watch?v=4Rx_JRkwAjY
-        
-        
-  Install Selenium using CMD
+    -Install Selenium using CMD
         Refrence Video: https://www.youtube.com/watch?v=mxFLktxXA_A
        
 >STEP 2:
   Download chromedriver from here
   
-  -Copy and paste the downloaded file to the path where Python is installed
-  -It's usually(Default) C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64
+    -Copy and paste the downloaded file to the path where Python is installed
+    -It's usually(Default) C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64
   
 >STEP 3:
 
