@@ -9,8 +9,7 @@ Steps to install
         Refrence Video: https://www.youtube.com/watch?v=mxFLktxXA_A
        
 >STEP 2:
-  Download chromedriver from here
-  
+    -Download chromedriver from here https://chromedriver.chromium.org/downloads * *Check your chrome version and download
     -Copy and paste the downloaded file to the path where Python is installed
     -It's usually(Default) C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64
   
