@@ -10,7 +10,7 @@ Steps to install
        
 >STEP 2:
 
-    -Download chromedriver from here https://chromedriver.chromium.org/downloads * *Check your chrome version and download
+    -Download chromedriver from here https://chromedriver.chromium.org/downloads 
     -Copy and paste the downloaded file to the path where Python is installed
     -It's usually(Default) C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64
   
