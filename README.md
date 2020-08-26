@@ -20,9 +20,9 @@ Steps to install
    Dowload this repository and unzip it
    
    
-        -Open OnlineClass_BOT file using notepad from unzipped folder
-        -Scroll down to last and update your Temporary GMAIL, PASSWORD, and Google MEET link/url
-        -Save it and closr
+    -Open OnlineClass_BOT file using notepad from unzipped folder
+    -Scroll down to last and update your Temporary GMAIL, PASSWORD, and Google MEET link/url
+    -Save it and closr
         
 >STEP 4:
 
