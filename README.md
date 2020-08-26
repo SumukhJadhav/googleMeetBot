@@ -1,7 +1,7 @@
 Steps to install
 
 STEP 1:
-  Install Python
+  >Install Python
         Refrence Video: https://www.youtube.com/watch?v=4Rx_JRkwAjY
   >Install Selenium using CMD
         Refrence Video: https://www.youtube.com/watch?v=mxFLktxXA_A
